@@ -33,3 +33,25 @@ body {
   h1{
       margin: 2rem 0;
   }
+  #search{
+    border: none;
+    padding: 10px;
+    width: 400px;
+    outline: none;
+    height: 10px;
+    font-size: 16px;
+    background-color: transparent;
+    
+  }
+  .searchIcon{
+    display: flex;
+    border: 2px solid #164ca7;;
+    border-radius: 5px;
+    align-items: center;
+    padding: 5px;
+  }
+  i{
+    background-color: #164ca7;
+    color:#fff ;
+    padding: 10px 10px;
+  }
